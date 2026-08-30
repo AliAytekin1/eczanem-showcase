@@ -118,8 +118,27 @@ Eczanem is currently under active development and has not yet been published on 
 The source code, backend configuration, Firebase production resources, and private credentials are maintained in a private repository.
 
 ## Screenshots
+<p align="center">
+  <img src="assets/screenshots/screen-01.png" alt="Eczanem application screen 01" width="30%">
+  <img src="assets/screenshots/screen-02.png" alt="Eczanem application screen 02" width="30%">
+  <img src="assets/screenshots/screen-03.png" alt="Eczanem application screen 03" width="30%">
+</p>
 
-Application screenshots and promotional visuals will be added to this repository.
+<p align="center">
+  <img src="assets/screenshots/screen-04.png" alt="Eczanem application screen 04" width="30%">
+  <img src="assets/screenshots/screen-05.png" alt="Eczanem application screen 05" width="30%">
+  <img src="assets/screenshots/screen-06.png" alt="Eczanem application screen 06" width="30%">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/screen-07.png" alt="Eczanem application screen 07" width="30%">
+  <img src="assets/screenshots/screen-08.png" alt="Eczanem application screen 08" width="30%">
+  <img src="assets/screenshots/screen-09.png" alt="Eczanem application screen 09" width="30%">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/screen-10.png" alt="Eczanem application screen 10" width="30%">
+</p>
 
 ## Medical Disclaimer
 
